@@ -6,7 +6,7 @@ chmod +x PathMaker.pl
 TO RUN: ./PathMaker.pl  
 
 Command line options:  
-./PathMaker.pl [NUMBER]  
+./PathMaker.pl [WIDTH]  
 
 Sample output:  
 
