@@ -1,4 +1,4 @@
-Creates an ASCII picture of a river (procedurally generated) - quick and simple program.  
+<code>Creates an ASCII picture of a river (procedurally generated) - quick and simple program.  
 
 To use, you may need to do:   
 chmod +x PathMaker.pl  
@@ -42,4 +42,4 @@ Sample output:
 ................................................................................................#........##.#...........  
 .................................................................................................###....#..#............  
 ....................................................................................................####................  
-
+</code>
